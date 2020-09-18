@@ -2,10 +2,6 @@
 
 Author: Jennifer Ribeiro
 
-git repository: 
+Git repository: https://github.com/ribeiro-je/jennyribeiro-hw01-cs5335
 
-demo video:
-
-
-Any addtional comments:
-
+Demo Video: https://youtu.be/mw1xhmxloew
